@@ -18,11 +18,11 @@ const ProductTable = () => {
             </Table.Row>
             <Table.Row>
                 <Table.Column>Tennis</Table.Column>
-                <Table.Column>$55.00</Table.Column>
+                <Table.Column>$99.00</Table.Column>
             </Table.Row>
             <Table.Row>
                 <Table.Column>Badminton</Table.Column>
-                <Table.Column>$48.00</Table.Column>
+                <Table.Column>$100.00</Table.Column>
             </Table.Row><Table.Row>
                 <Table.Column>Basketball</Table.Column>
                 <Table.Column>$40.00</Table.Column>
